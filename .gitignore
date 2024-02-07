@@ -21,3 +21,6 @@ amplifytools.xcconfig
 #amplify-do-not-edit-end
 
 .next/*
+out/
+android/
+ios/

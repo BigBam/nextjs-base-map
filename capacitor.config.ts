@@ -3,7 +3,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 const config: CapacitorConfig = {
   appId: 'org.codemovers.basemapillary',
   appName: 'BaseMapillary',
-  webDir: 'public',
+  webDir: 'out',
   server: {
     androidScheme: 'https'
   }
