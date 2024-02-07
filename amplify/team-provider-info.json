@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-maprd-staging-213350-authRole",
+      "UnauthRoleArn": "arn:aws:iam::851531531659:role/amplify-maprd-staging-213350-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::851531531659:role/amplify-maprd-staging-213350-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-maprd-staging-213350-deployment",
+      "UnauthRoleName": "amplify-maprd-staging-213350-unauthRole",
+      "StackName": "amplify-maprd-staging-213350",
+      "StackId": "arn:aws:cloudformation:us-west-2:851531531659:stack/amplify-maprd-staging-213350/95d10ff0-c600-11ee-97e7-025a36d35c6f",
+      "AmplifyAppId": "d3vk1tmmlcx547"
+    }
+  }
+}
