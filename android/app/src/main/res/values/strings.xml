@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BaseMapillary</string>
+    <string name="title_activity_main">BaseMapillary</string>
+    <string name="package_name">org.codemovers.basemapillary</string>
+    <string name="custom_url_scheme">org.codemovers.basemapillary</string>
+</resources>

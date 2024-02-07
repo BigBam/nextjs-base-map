@@ -9,7 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@capacitor/android": "^5.7.0",
     "@capacitor/core": "^5.7.0",
+    "@capacitor/ios": "^5.7.0",
     "mapillary-js": "^4.1.2",
     "next": "14.1.0",
     "react": "^18",
